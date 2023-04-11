@@ -1,0 +1,23 @@
+{
+  "name": "nodeerrorhandling",
+  "version": "1.0.0",
+  "description": "Here we Node.js that reads a file from the filesystem and returns a Promise that resolves with the file's contents as a string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rohit-lakhinana/NodeErrorHandling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rohit-lakhinana/NodeErrorHandling/issues"
+  },
+  "homepage": "https://github.com/Rohit-lakhinana/NodeErrorHandling#readme",
+  "dependencies": {
+    "node": "^19.8.1"
+  }
+}
